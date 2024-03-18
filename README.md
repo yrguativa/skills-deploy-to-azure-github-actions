@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Deploy to Azure
+# Deploy to Azure 🧪
 
 _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
